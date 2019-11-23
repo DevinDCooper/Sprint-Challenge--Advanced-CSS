@@ -42,10 +42,11 @@ Edit this document to include your answers after each question. Make sure to lea
 -- makes the calculation easier.
 
 4. How would you describe preprocessing to someone new to CSS?
--- its a way to change the css without having to go in and change everything. 
+-- its a way to change the css without having to go in and change everything. you can also use nesting to nest elements in other elements that share the same parents for easier styling also creating Mixins and Parametric Mixins to reduce writing the same code over and over you can just plug in the mixin.
+
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble? 
--- using variables makes it easy and having to move from page to page is where im having trouble
+-- using variables and using nesting for a cleaner less style makes it easy, and having to move from page to page is where im having trouble
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 

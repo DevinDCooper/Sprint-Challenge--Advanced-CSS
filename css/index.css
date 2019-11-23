@@ -289,6 +289,7 @@ footer {
   cursor: pointer;
 }
 .home .walk .walk-text button:hover {
+  color: yellow;
   background-color: #0e60a4;
 }
 .home .walk .walk-text h3 {
@@ -307,6 +308,7 @@ footer {
   cursor: pointer;
 }
 .home .walk .walk-text .btn:hover {
+  color: yellow;
   background-color: #0e60a4;
 }
 @media (max-width: 500px) {
