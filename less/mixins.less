@@ -1,1 +1,27 @@
 // Mixins Here
+
+.btn (){
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(6, 41, 70) ;
+    color: white;
+    cursor: pointer;
+    &:hover {
+        color: yellow;
+        background-color: lighten(@bg-color, 20%);
+        }
+        }
+
+
+
+.display {
+    display: flex;
+    flex-flow: column;
+}
+
+.margins {
+    margin: 0 auto;
+    width: 100%
+}
